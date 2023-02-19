@@ -16,6 +16,10 @@
         "matches": ["https://news.yahoo.co.jp/*"],
         "js": ["suffix.js"]
       }
+    {
+        "matches": ["https://www.google.com/"],
+        "js": ["simple.js"]
+      }
   ]
   
 }
